@@ -192,3 +192,18 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Dados 
+data/
+*.csv
+*.parquet
+
+# Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de ambiente virtual
+venv/
+*.env
+
+# Arquivos do sistema
+.DS_Store
