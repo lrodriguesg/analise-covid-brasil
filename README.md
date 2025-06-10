@@ -2,6 +2,8 @@
 
 Análise de Big Data sobre o impacto da COVID-19 no Brasil, focando em desigualdades regionais e lições para futuras crises. Este projeto foi desenvolvido para a disciplina “Tópicos de Big Data em Python” da Universidade Estácio de Sá.
 
+![Banner do Projeto](presentation/banner-2_page-0001.jpg)
+
 ## Integrantes do Grupo
 
 * EZEQUIEL OLIVEIRA BRAZ SENA
